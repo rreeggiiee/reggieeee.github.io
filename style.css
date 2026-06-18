@@ -1,0 +1,55 @@
+.maincontainer {
+     display: block;
+     margin-top: 1600px;
+     float: center;
+     width: 80%;
+     height: 80vh;
+     background-color: #d4d4d4;
+     margin-left: 10vw;
+     margin-bottom: 100px;
+     border: 16px solid #ffffff;
+     } 
+
+
+     .box {
+        
+       
+    
+        
+     }
+
+     .avatar {
+      display: flex;
+      float: left;
+   
+      width: 40vh;
+
+   
+      margin-left: 5vw;
+    
+      align-items: center;
+      height: 40vh;
+   
+      border:#ffffff solid 2vw;
+    
+      margin-top: 5vh;
+
+   }
+      .sidecontainer {
+         display: flex;
+         margin-top: -35vh;
+         float: right;
+         width: 40vw;
+         height: 20vh;
+         background-color: #cde1ff;
+         margin-right: 2vw;
+      }
+   .sidecontainer2 {
+         display: flex;
+         margin-top: -10vh;
+         float: right;
+         width: 40vw;
+         height: 35vh;
+         background-color: #cde1ff;
+         margin-right: 2vw;
+      }
